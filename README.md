@@ -2,7 +2,7 @@
 
 **A real-time 3D protein visualization tool.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](WILL_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://struct-viz-pro.streamlit.app/)
 
 ## 📌 Overview
 **StructViz Pro** is an interactive bioinformatics tool that allows researchers and students to visualize 3D protein structures directly in the browser. It integrates with the **RCSB PDB** database to fetch structures instantly or accepts local `.pdb` file uploads for custom analysis.
@@ -44,4 +44,5 @@ If you want to run this tool on your own machine:
 [LinkedIn](will add soon) | [GitHub](https://github.com/rao-monika-yadav)
 
 ---
+
 *Disclaimer: This tool is intended for research and educational purposes only.*
